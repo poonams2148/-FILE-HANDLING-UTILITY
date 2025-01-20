@@ -44,3 +44,6 @@ Code Design: Implement the logic using Java's File, FileWriter, FileReader, and 
 Testing: Validate the program with different scenarios, such as working with large files, empty files, and files with special characters.
 Documentation: Add comments in the code to explain the functionality of each part and create a README file describing how to use the program.
 By the end of this task, the utility will provide a reusable script for file operations and serve as a learning resource for understanding Java’s file handling capabilities.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/8caf8200-98f9-44b9-bb24-454e6294fc0d)
